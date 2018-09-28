@@ -7,25 +7,29 @@ const IndexPage = () => (
     <p>
       His scowl serves as a stark contrast to the tender affection
       Gunzy's <span style={{ textDecoration: 'underline #9be835'}}>supple</span> fingers
-      were showing his feline companion. Waiting at the bus stop for the
-      “specialist” he summoned to “court”,
-      "How dare he make the king wait?" yells the self-proclaimed king of
-      All-Over-The-Place.
+      fingers shows his feline companion. Waiting at the bus stop for the “specialist”
+      he summoned to “court”, the self-proclaimed king of All-Over-The-Place yells,
+      "How dare he make the king wait?"
     </p>
     <p>
-      Exhausted from pacing, he sits to stroke Catrick. “Of all my feline
-      companions, you're my favorite Mr. Catrick Swayze,” Gunzy imagines running
-      his fingers through Catrick’s fluffy mane. Catrick is a sphynx. For the
-      moment. “No one loves daddy like you do. Yes you love daddy don't you?”
+      Exhausted from pacing, he sits to stroke his cat. “Of all my feline companions,
+      you're my favorite Mr. Catrick Swayze,” Gunzy imagines running his fingers
+      through Catrick’s fluffy mane. Catrick is a sphynx. For the moment.
+    </p>
+    <p>
+      “No one loves daddy like you do. Yes you love daddy don't you?”
     </p>
     <p>
       The residue of his altercation at Planet Fitness earlier in the day lingers.
-      "I'm so outraged at that gym attendant at Planet Fitness! How dare
+      “I'm so outraged at that gym attendant at Planet Fitness! How dare
       he <span style={{ textDecoration: 'underline #ff9438'}}>ostracize</span> me
-      from my place of body worship!," he reflects. Catrick spontaneously erupts
-      into a Persian. Gunzy is delighted. He likes it when Catrick becomes a persian.
-      He continues muttering to Catrick, “So what if I indulged myself to a slice
-      of pizza while revelling at myself on the thigh machine, bloody communists.”
+      from my place of body worship!” he reflects.
+    </p>
+    <p>
+      Catrick spontaneously erupts into a Persian. Gunzy is delighted. He likes
+      it when Catrick becomes a persian.  He continues muttering to Catrick, “So
+      what if I indulged myself a slice of pizza while revelling at myself on the
+      thigh machine, bloody communists.”
     </p>
     <p>
       ...
@@ -128,7 +132,7 @@ const IndexPage = () => (
     <p>
       "Spherical! " Gunzy spits unable to contain his disgust. "If what this so-called
       soothsayer asserts is true, who knows what's out there? Imagine the
-      delinquents tramping around outside my <span style={{ textDecoration: 'underline #3afffa'}}>bailiwick</span>!"
+      delinquents tramping around outside my <span style={{ textDecoration: 'underline #3affa'}}>bailiwick</span>!"
       He lets out a scornful laugh. "No, I can't have that. I want to see this
       soothsayer myself."
     </p>
