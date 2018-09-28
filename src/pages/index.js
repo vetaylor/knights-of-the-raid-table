@@ -4,14 +4,17 @@ import Layout from '../components/layout'
 
 const IndexPage = () => (
   <Layout>
+    <h1 style={{ display: 'flex', justifyContent: 'center' }}>Prologue</h1>
     <p>
+      <strong>Rick:</strong><br/>
       His scowl serves as a stark contrast to the tender affection
-      Gunzy's <span style={{ textDecoration: 'underline #9be835'}}>supple</span> fingers
+      Gunzy's <span style={{ textDecoration: 'underline #9be835' }}>supple</span> fingers
       fingers shows his feline companion. Waiting at the bus stop for the “specialist”
       he summoned to “court”, the self-proclaimed king of All-Over-The-Place yells,
       "How dare he make the king wait?"
     </p>
     <p>
+      <strong>Josh:</strong><br/>
       Exhausted from pacing, he sits to stroke his cat. “Of all my feline companions,
       you're my favorite Mr. Catrick Swayze,” Gunzy imagines running his fingers
       through Catrick’s fluffy mane. Catrick is a sphynx. For the moment.
@@ -22,7 +25,7 @@ const IndexPage = () => (
     <p>
       The residue of his altercation at Planet Fitness earlier in the day lingers.
       “I'm so outraged at that gym attendant at Planet Fitness! How dare
-      he <span style={{ textDecoration: 'underline #ff9438'}}>ostracize</span> me
+      he <span style={{ textDecoration: 'underline #ff9438' }}>ostracize</span> me
       from my place of body worship!” he reflects.
     </p>
     <p>
@@ -35,6 +38,7 @@ const IndexPage = () => (
       ...
     </p>
     <p>
+      <strong>Nate:</strong><br/>
       Earlier in the week Gunzy embarked on a VHS frenzy. He fingered and prodded
       boxes packed full of video tapes until he settled on a Three's Company binge.
       He determined it critical to examine what he believed to be the subtle sexual
@@ -68,7 +72,7 @@ const IndexPage = () => (
     </p>
     <p>
       The bus squeals to a stop and spits out Snitch, Gunzy's "specialist". "It's
-      about time <span style={{ textDecoration: 'underline #ffe32c'}}>manservant</span>.
+      about time <span style={{ textDecoration: 'underline #ffe32c' }}>manservant</span>.
       You make me sit idle at your peril."
     </p>
     <p>
@@ -95,9 +99,10 @@ const IndexPage = () => (
       learn from your meeting with the soothsayer?"
     </p>
     <p>
+      <strong>Grimes:</strong><br/>
       "Behold!", Snitch ejaculated with a flourish, and a gay little bow.
       "The soothsayer sayeth, and you will heed. The earth is
-      indeed <span style={{ textDecoration: 'underline #e85981'}}>spherical</span>,
+      indeed <span style={{ textDecoration: 'underline #e85981' }}>spherical</span>,
       not flat."
     </p>
     <p>
@@ -113,6 +118,7 @@ const IndexPage = () => (
       thing don't you? That thing I almost did."
     </p>
     <p>
+      <strong>Victoria:</strong><br/>
       Gunzy slowly shifts his gaze to the left then to the right, up, down and
       once around clockwise for good luck. Clearly not recalling Snitch’s plight,
       his voice wavers as he hesitantly answers, “yes...?”
@@ -132,10 +138,20 @@ const IndexPage = () => (
     <p>
       "Spherical! " Gunzy spits unable to contain his disgust. "If what this so-called
       soothsayer asserts is true, who knows what's out there? Imagine the
-      delinquents tramping around outside my <span style={{ textDecoration: 'underline #3affa'}}>bailiwick</span>!"
+      delinquents tramping around outside my <span style={{ textDecoration: 'underline #3afffa' }}>bailiwick</span>!"
       He lets out a scornful laugh. "No, I can't have that. I want to see this
       soothsayer myself."
     </p>
+    <div>
+      <h3 style={{ display: 'flex', justifyContent: 'center' }}>Next Week on KOTRT:</h3>
+      <p style={{ display: 'flex', justifyContent: 'center' }}>
+        <span style={{ textDecoration: 'underline #ffe32c' }}>banana ketchup</span>/{' '}
+        <span style={{ textDecoration: 'underline #e85981' }}>galvanize</span>/{' '}
+        <span style={{ textDecoration: 'underline #ff9438' }}>flaccid</span>/{' '}
+        <span style={{ textDecoration: 'underline #3afffa' }}>nihilism</span>/{' '}
+        <span style={{ textDecoration: 'underline #9be835' }}>chafing dish</span>/{' '}
+      </p>
+    </div>
   </Layout>
 )
 
