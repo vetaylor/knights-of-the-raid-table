@@ -128,7 +128,7 @@ const IndexPage = () => (
     <p>
       "Spherical! " Gunzy spits unable to contain his disgust. "If what this so-called
       soothsayer asserts is true, who knows what's out there? Imagine the
-      delinquents tramping around outside my <span style={{ textDecoration: 'underline #3affa'}}>bailiwick</span>!"
+      delinquents tramping around outside my <span style={{ textDecoration: 'underline #3afffa'}}>bailiwick</span>!"
       He lets out a scornful laugh. "No, I can't have that. I want to see this
       soothsayer myself."
     </p>
