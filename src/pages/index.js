@@ -9,7 +9,7 @@ const IndexPage = () => (
       <strong>Rick:</strong><br/>
       His scowl serves as a stark contrast to the tender affection
       Gunzy's <span style={{ textDecoration: 'underline #9be835' }}>supple</span> fingers
-      fingers shows his feline companion. Waiting at the bus stop for the “specialist”
+      shows his feline companion. Waiting at the bus stop for the “specialist”
       he summoned to “court”, the self-proclaimed king of All-Over-The-Place yells,
       "How dare he make the king wait?"
     </p>
