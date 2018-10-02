@@ -16,7 +16,7 @@ const Header = ({ siteTitle }) => (
         justifyContent: 'center',
       }}
     >
-      <h1 style={{ margin: 0 }}>
+      <h1 style={{ fontSize: '2.5rem', margin: 0 }}>
         <Link
           to="/"
           style={{

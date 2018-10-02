@@ -14,8 +14,7 @@
     "react-helmet": "^5.2.0",
     "react-typography": "^0.16.13",
     "typography": "^0.16.17",
-    "typography-theme-fairy-gates": "^0.15.11",
-    "typography-theme-judah": "^0.15.10"
+    "typography-theme-fairy-gates": "^0.15.11"
   },
   "keywords": [
     "gatsby"
