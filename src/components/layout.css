@@ -4,10 +4,15 @@ a {
 }
 
 ul,
-li {
+li.nextWeek {
   display: inline;
   margin: 0 auto;
   padding: .875em;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
 }
 
 .grimes{
