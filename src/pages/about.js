@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
@@ -31,18 +30,10 @@ const AboutPage = () => (
       add little challenges to the exercise, and have fun while we’re at it.
     </p>
 
-    <Link
-      to="/"
-      style={{
-        display: 'flex',
-        fontFamily: 'Vesper Libre',
-        fontWeight: '700',
-        fontSize: '1.125em',
-        justifyContent: 'center',
-      }}
-      >
-        Back
-    </Link>
+    <br/>
+    <h3>Fan Mail</h3>
+    <p>Talk to us! <a style={{ color: 'blue' }}>knightsoftheraidtable@gmail.com</a></p>
+    <br/>
   </Layout>
 )
 

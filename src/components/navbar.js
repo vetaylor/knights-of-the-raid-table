@@ -47,6 +47,16 @@ const Navbar = () => (
           >
             Rules
         </Link>
+        <Link
+          to='authors/'
+          style={{
+            color: 'white',
+            padding: '0 .875rem',
+            textDecoration: 'none',
+          }}
+          >
+            Authors
+        </Link>
       </h4>
     </div>
   </div>

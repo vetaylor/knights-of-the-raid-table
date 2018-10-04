@@ -1,12 +1,11 @@
 import React from 'react'
-import { Link } from 'gatsby'
 
 import Layout from '../components/layout'
 
 const RulesPage = () => (
   <Layout>
     <h3 style={{ display: 'flex', justifyContent: 'center' }}>The Framework</h3>
-    
+
     <ol>
       <li>This list of rules can be amended by author committee vote.</li>
       <li>Author order shall be chosen at random at the end of the week.</li>
@@ -25,19 +24,6 @@ const RulesPage = () => (
         of the Day but can be extended if needed; subject to author committee
         approval.</li>
     </ol>
-
-    <Link
-      to="/"
-      style={{
-        display: 'flex',
-        fontFamily: 'Vesper Libre',
-        fontWeight: '700',
-        fontSize: '1.125em',
-        justifyContent: 'center',
-      }}
-      >
-        Back
-    </Link>
   </Layout>
 )
 
