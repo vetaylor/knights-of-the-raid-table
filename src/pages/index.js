@@ -1,7 +1,6 @@
 import React from 'react'
 
 import Layout from '../components/layout'
-import Blurb from '../components/tooltip'
 
 const IndexPage = () => (
   <Layout>
@@ -9,8 +8,8 @@ const IndexPage = () => (
     <h4 style={{ marginBottom: 0, }}>[Rick]</h4>
     <p>
       His scowl serves as a stark contrast to the tender affection
-      Edward Neverdiet's <span class='rick' id='supple'>supple</span>
-      <Blurb /> fingers
+      Edward Neverdiet's <span class='rick' data-tooltip='argument about words
+        like "elastic" and "pliable"' data-tooltip-position='top'>supple</span> fingers
       shows his feline companion. Waiting at the bus stop for the “specialist”
       he summoned to “court”, the self-proclaimed king of All-Over-The-Place yells,
       "How dare he make the king wait?"
@@ -102,8 +101,8 @@ const IndexPage = () => (
     <p>
       "Behold!", Snitch ejaculated with a flourish, and a gay little bow.
       "The soothsayer sayeth, and you will heed. The earth is
-      indeed <span class='grimes'>spherical</span>,
-      not flat."
+      indeed <span class='grimes' data-tooltip='Alabama spherical elephants in
+        physics' data-tooltip-position='top'>spherical</span>, not flat."
     </p>
     <p>
       "Balderdash!", came the expected retort. "That can not be true! You'd fall
