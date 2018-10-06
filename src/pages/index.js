@@ -101,8 +101,8 @@ const IndexPage = () => (
     <p>
       "Behold!", Snitch ejaculated with a flourish, and a gay little bow.
       "The soothsayer sayeth, and you will heed. The earth is
-      indeed <span class='grimes' data-tooltip='Alabama spherical elephants in
-        physics' data-tooltip-position='top'>spherical</span>, not flat."
+      indeed <span class='grimes' data-tooltip='Alabama physics department spherical
+        elephants' data-tooltip-position='top'>spherical</span>, not flat."
     </p>
     <p>
       "Balderdash!", came the expected retort. "That can not be true! You'd fall
