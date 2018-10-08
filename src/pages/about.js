@@ -32,7 +32,7 @@ const AboutPage = () => (
 
     <br/>
     <h3>Fan Mail</h3>
-    <p>Talk to us! <a style={{ color: 'blue' }}>knightsoftheraidtable@gmail.com</a></p>
+    <p>Talk to us! <span style={{ color: 'blue' }}>knightsoftheraidtable@gmail.com</span></p>
     <br/>
   </Layout>
 )
