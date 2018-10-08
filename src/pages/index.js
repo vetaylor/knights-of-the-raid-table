@@ -5,16 +5,16 @@ import Layout from '../components/layout'
 const IndexPage = () => (
   <Layout>
     <h1 style={{ display: 'flex', justifyContent: 'center' }}>Prologue</h1>
-    <h4 style={{ marginBottom: 0, }}>[Rick]</h4>
+    <h4 style={{ marginBottom: 0, }}>[Taco]</h4>
     <p>
       His scowl serves as a stark contrast to the tender affection
-      Edward Neverdiet's <span class='rick' data-balloon='argument about words
+      Edward Neverdiet's <span class='taco' data-balloon='argument about words
         like "elastic" and "pliable"' data-balloon-pos='up'>supple</span> fingers
       shows his feline companion. Waiting at the bus stop for the “specialist”
       he summoned to “court”, the self-proclaimed king of All-Over-The-Place yells,
       "How dare he make the king wait?"
     </p>
-    <h4 style={{ marginBottom: 0, }}>[Josh]</h4>
+    <h4 style={{ marginBottom: 0, }}>[Honey Butter]</h4>
     <p>
       Exhausted from pacing, he sits to stroke his cat. “Of all my feline companions,
       you're my favorite Mr. Catrick Swayze,” Edward imagines running his fingers
@@ -26,7 +26,7 @@ const IndexPage = () => (
     <p>
       The residue of his altercation at Planet Fitness earlier in the day lingers.
       “I'm so outraged at that gym attendant at Planet Fitness! How dare
-      he <span class='josh' data-balloon='an argument that started with a coworker
+      he <span class='honey-butter' data-balloon='an argument that started with a coworker
       talking about being "ostracized" by the #MeToo Movement'
       data-balloon-pos='up'>ostracize</span> me
       from my place of body worship!” he reflects.
@@ -40,7 +40,7 @@ const IndexPage = () => (
     <p style={{ display: 'flex', justifyContent: 'center' }}>
       ...
     </p>
-    <h4 style={{ marginBottom: 0, }}>[Nate]</h4>
+    <h4 style={{ marginBottom: 0, }}>[Naelotus]</h4>
     <p>
       Earlier in the week Edward embarked on a VHS frenzy. He fingered and prodded
       boxes packed full of video tapes until he settled on a Three's Company binge.
@@ -75,7 +75,7 @@ const IndexPage = () => (
     </p>
     <p>
       The bus squeals to a stop and spits out Snitch, Edward's "specialist". "It's
-      about time <span class='nate' data-balloon='conversation about a recent trip
+      about time <span class='naelotus' data-balloon='conversation about a recent trip
         to Paris and trying to figure out what they call their bathroom
         attendents' data-balloon-pos='up'>manservant</span>.
       You make me sit idle at your peril."
@@ -103,11 +103,11 @@ const IndexPage = () => (
       "Pray," Edward inserts waving his hand dismissively satisfied, "what did
       learn from your meeting with the soothsayer?"
     </p>
-    <h4 style={{ marginBottom: 0, }}>[Grimes]</h4>
+    <h4 style={{ marginBottom: 0, }}>[Tubal-cain]</h4>
     <p>
       "Behold!", Snitch ejaculated with a flourish, and a gay little bow.
       "The soothsayer sayeth, and you will heed. The earth is
-      indeed <span class='grimes' data-balloon='Alabama physics department spherical
+      indeed <span class='tubal-cain' data-balloon='Alabama physics department spherical
         elephants' data-balloon-pos='up'>spherical</span>, not flat."
     </p>
     <p>
@@ -122,7 +122,7 @@ const IndexPage = () => (
       Great drops of tears fall from Snitch's face. Pleadingly, "You remember that
       thing don't you? That thing I almost did."
     </p>
-    <h4 style={{ marginBottom: 0, }}>[Victoria]</h4>
+    <h4 style={{ marginBottom: 0, }}>[Gummiworms]</h4>
     <p>
       Edward slowly shifts his gaze to the left then to the right, up, down and
       once around clockwise for good luck. Clearly not recalling Snitch’s plight,
@@ -144,7 +144,7 @@ const IndexPage = () => (
       "Spherical! " Edward spits unable to contain his disgust. "If what this so-called
       soothsayer asserts is true, who knows what's out there? Imagine the
       delinquents tramping around outside
-      my <span class='victoria' data-balloon='conversation with vendor about
+      my <span class='gummiworms' data-balloon='conversation with vendor about
       educational products' data-balloon-pos='up'>bailiwick</span>!"
       He lets out a scornful laugh. "No, I can't have that. I want to see this
       soothsayer myself."
@@ -152,11 +152,11 @@ const IndexPage = () => (
     <div class='nextWeek'>
       <h3>Next Week on KOTRT</h3>
       <ul>
-        <li class='nextWeek'><span class='nate'>banana ketchup</span></li>
-        <li class='nextWeek'><span class='grimes'>galvanize</span></li>
-        <li class='nextWeek'><span class='josh'>flaccid</span></li>
-        <li class='nextWeek'><span class='victoria'>nihilism</span></li>
-        <li class='nextWeek'><span class='rick'>chafing dish</span></li>
+        <li class='nextWeek'><span class='naelotus'>banana ketchup</span></li>
+        <li class='nextWeek'><span class='tubal-cain'>galvanize</span></li>
+        <li class='nextWeek'><span class='honey-butter'>flaccid</span></li>
+        <li class='nextWeek'><span class='gummiworms'>nihilism</span></li>
+        <li class='nextWeek'><span class='taco'>chafing dish</span></li>
       </ul>
     </div>
   </Layout>
