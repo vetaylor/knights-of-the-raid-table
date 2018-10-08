@@ -8,8 +8,8 @@ const IndexPage = () => (
     <h4 style={{ marginBottom: 0, }}>[Rick]</h4>
     <p>
       His scowl serves as a stark contrast to the tender affection
-      Edward Neverdiet's <span class='rick' data-tooltip='argument about words
-        like "elastic" and "pliable"' data-tooltip-position='top'>supple</span> fingers
+      Edward Neverdiet's <span class='rick' data-balloon='argument about words
+        like "elastic" and "pliable"' data-balloon-pos='up'>supple</span> fingers
       shows his feline companion. Waiting at the bus stop for the “specialist”
       he summoned to “court”, the self-proclaimed king of All-Over-The-Place yells,
       "How dare he make the king wait?"
@@ -26,7 +26,7 @@ const IndexPage = () => (
     <p>
       The residue of his altercation at Planet Fitness earlier in the day lingers.
       “I'm so outraged at that gym attendant at Planet Fitness! How dare
-      he <span class='josh'>ostracize</span> me from my place of body worship!” he reflects.
+      he <span class='josh' data-balloon='' data-balloon-pos='up'>ostracize</span> me from my place of body worship!” he reflects.
     </p>
     <p>
       Catrick spontaneously erupts into a Persian. Edward is delighted. He likes
@@ -72,7 +72,7 @@ const IndexPage = () => (
     </p>
     <p>
       The bus squeals to a stop and spits out Snitch, Edward's "specialist". "It's
-      about time <span class='nate'>manservant</span>. You make me sit idle at your peril."
+      about time <span class='nate' data-balloon='' data-balloon-pos='up'>manservant</span>. You make me sit idle at your peril."
     </p>
     <p>
       "I apologize sire! I am at the mercy of the public transportation. The driver
@@ -101,8 +101,8 @@ const IndexPage = () => (
     <p>
       "Behold!", Snitch ejaculated with a flourish, and a gay little bow.
       "The soothsayer sayeth, and you will heed. The earth is
-      indeed <span class='grimes' data-tooltip='Alabama physics department spherical
-        elephants' data-tooltip-position='top'>spherical</span>, not flat."
+      indeed <span class='grimes' data-balloon='Alabama physics department spherical
+        elephants' data-balloon-pos='up'>spherical</span>, not flat."
     </p>
     <p>
       "Balderdash!", came the expected retort. "That can not be true! You'd fall
@@ -138,7 +138,7 @@ const IndexPage = () => (
       "Spherical! " Edward spits unable to contain his disgust. "If what this so-called
       soothsayer asserts is true, who knows what's out there? Imagine the
       delinquents tramping around outside
-      my <span class='victoria'>bailiwick</span>!"
+      my <span class='victoria' data-balloon='' data-balloon-pos='up'>bailiwick</span>!"
       He lets out a scornful laugh. "No, I can't have that. I want to see this
       soothsayer myself."
     </p>
