@@ -26,7 +26,10 @@ const IndexPage = () => (
     <p>
       The residue of his altercation at Planet Fitness earlier in the day lingers.
       “I'm so outraged at that gym attendant at Planet Fitness! How dare
-      he <span class='josh' data-balloon='' data-balloon-pos='up'>ostracize</span> me from my place of body worship!” he reflects.
+      he <span class='josh' data-balloon='an argument that started with a coworker
+      talking about being "ostracized" by the #MeToo Movement'
+      data-balloon-pos='up'>ostracize</span> me
+      from my place of body worship!” he reflects.
     </p>
     <p>
       Catrick spontaneously erupts into a Persian. Edward is delighted. He likes
@@ -72,7 +75,10 @@ const IndexPage = () => (
     </p>
     <p>
       The bus squeals to a stop and spits out Snitch, Edward's "specialist". "It's
-      about time <span class='nate' data-balloon='' data-balloon-pos='up'>manservant</span>. You make me sit idle at your peril."
+      about time <span class='nate' data-balloon='conversation about a recent trip
+        to Paris and trying to figure out what they call their bathroom
+        attendents' data-balloon-pos='up'>manservant</span>.
+      You make me sit idle at your peril."
     </p>
     <p>
       "I apologize sire! I am at the mercy of the public transportation. The driver
@@ -138,7 +144,8 @@ const IndexPage = () => (
       "Spherical! " Edward spits unable to contain his disgust. "If what this so-called
       soothsayer asserts is true, who knows what's out there? Imagine the
       delinquents tramping around outside
-      my <span class='victoria' data-balloon='' data-balloon-pos='up'>bailiwick</span>!"
+      my <span class='victoria' data-balloon='conversation with vendor about
+      educational products' data-balloon-pos='up'>bailiwick</span>!"
       He lets out a scornful laugh. "No, I can't have that. I want to see this
       soothsayer myself."
     </p>
