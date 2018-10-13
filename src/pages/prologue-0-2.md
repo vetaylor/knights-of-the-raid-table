@@ -1,9 +1,9 @@
-­—-
+---
 title: 0.2 Prologue
 prev: /prologue-0-1
 next: /
-­—-
-
+---
+­
 #### [Naelotus]
 “This soothsayer who goes by the name Rumpleforeskin,” Edward exclaims with ire,
 staring into the distance, hands massaging his gut.
