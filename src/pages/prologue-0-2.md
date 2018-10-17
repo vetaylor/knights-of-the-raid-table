@@ -26,7 +26,7 @@ Why trek to such a dangerous realm?” Latexia is notorious amongst realm travel
 It is home to the prematurally erupting Mt. Gonzo, a nightmarish vibrating meat
 volcano. In the midwestern region dwells a garden of sexually suggestive rubber
 corn-on-the-cob. The sultry kernels lure in oblivious travelers, goading them to
-take a like. When approached the ear of rubber corn emerges from the husk like a
+take a lick. When approached the ear of rubber corn emerges from the husk like a
 canine penile sheath and butters the enchanted traveler to death. There is myth
 of a misty graveyard packed full of forgotten dildos. Native Latexian scholars
 believe these zombie dildos abruptly attack during important life-events­—marriage
