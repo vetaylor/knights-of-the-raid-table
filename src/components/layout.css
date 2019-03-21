@@ -1,0 +1,47 @@
+ul,
+li.next-week {
+  display: inline;
+  margin: 0 auto;
+  padding: .875em;
+}
+
+ol {
+  display: block;
+  list-style-type: decimal;
+}
+
+.site {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.site-content {
+  flex-grow: 1;
+}
+
+.tubal-cain{
+  background-color: rgba(232,89,129,.5);
+}
+
+.honey-butter {
+  background-color: rgba(255,148,56,.5);
+}
+
+.naelotus {
+  background-color: rgba(255,227,44,.5);
+}
+
+.taco {
+  background-color: rgba(155,232,53,.5);
+}
+
+.gummiworms{
+  background-color: rgba(58,255,250,0.5);
+}
+
+.next-week{
+  text-align: center;
+}
+
+@import '~balloon-css/balloon.css';
