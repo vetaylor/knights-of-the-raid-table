@@ -12,13 +12,13 @@ module.exports = {
         name: `chapters`,
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
-      },
-    },
+    //{
+      //resolve: `gatsby-source-filesystem`,
+      //options: {
+        //path: `${__dirname}/content/assets`,
+        //name: `assets`,
+      //},
+    //},
     {
       resolve: `gatsby-transformer-remark`,
       options: {
