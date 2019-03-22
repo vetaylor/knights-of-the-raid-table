@@ -12,13 +12,13 @@ module.exports = {
         name: `chapters`,
       },
     },
-    //{
-      //resolve: `gatsby-source-filesystem`,
-      //options: {
-        //path: `${__dirname}/content/assets`,
-        //name: `assets`,
-      //},
-    //},
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/assets`,
+        name: `assets`,
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -59,6 +59,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
+        icon: `content/assets/knight-icon.png`,
       },
     },
     `gatsby-plugin-offline`,

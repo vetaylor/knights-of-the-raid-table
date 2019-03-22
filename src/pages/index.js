@@ -14,7 +14,7 @@ class ChapterIndex extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All posts"
+          title="Home"
           keywords={[`knights`, `raid`, `table`, `storytelling`]}
         />
         {posts.map(({ node }) => {
